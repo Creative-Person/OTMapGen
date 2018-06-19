@@ -6,6 +6,10 @@ Simple prototype for a simplex noise seeded OpenTibia map generator. This genera
   <img src="images/banner.png">
 </p>
 
+# Online Version
+
+For a demo see: https://inconcessus.github.io
+
 # Dependencies
 
 * OTBM2JSON (https://github.com/Inconcessus/OTBM2JSON)
